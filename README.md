@@ -1,6 +1,6 @@
 ## Olá, sou Edney Moita 👋
 
-Sou Analista de TI com 25 anos de experiência em Análise de Requisitos/Desenvolvimento C, C++ e SQL e atualmente aprendendo Desenvolvimento Web Front-End (maior afinidade) e Back-End.
+Sou Analista de TI com 24 anos de experiência em Análise de Requisitos/Desenvolvimento C, C++ e SQL e atualmente aprendendo Desenvolvimento Web Front-End (maior afinidade) e Back-End.
 
  <div>
   <a href="https://github.com/edneymoita">
